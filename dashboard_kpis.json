@@ -1,0 +1,12 @@
+{
+  "total_records": 26794878,
+  "total_opioid_records": 946043,
+  "opioid_rate_pct": 3.53,
+  "unique_prescribers": 1104162,
+  "unique_specialties": 175,
+  "unique_states": 62,
+  "unique_drugs": 1779,
+  "top_opioid_drug": "Hydrocodone/Acetaminophen",
+  "top_opioid_state": "CO",
+  "top_opioid_specialty": "Hand Surgery"
+}

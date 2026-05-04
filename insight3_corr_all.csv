@@ -1,0 +1,6 @@
+,Tot_Clms,Tot_30day_Fills,Tot_Day_Suply,Tot_Drug_Cst,Tot_Benes
+Tot_Clms,1.0,0.92,0.395,0.699,0.941
+Tot_30day_Fills,0.92,1.0,0.705,0.57,0.792
+Tot_Day_Suply,0.395,0.705,1.0,0.075,0.132
+Tot_Drug_Cst,0.699,0.57,0.075,1.0,0.736
+Tot_Benes,0.941,0.792,0.132,0.736,1.0
